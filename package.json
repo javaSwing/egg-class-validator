@@ -1,6 +1,6 @@
 {
-  "name": "@hackycy/egg-class-validator",
-  "version": "0.1.1",
+  "name": "@javaSwing/egg-class-validator",
+  "version": "0.1.2",
   "description": "class-validator plugin for Egg.js",
   "eggPlugin": {
     "name": "classValidator"
@@ -53,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hackycy/egg-class-validator"
+    "url": "git+https://github.com/javaSwing/egg-class-validator"
   },
   "bugs": {
-    "url": "https://github.com/hackycy/egg-class-validator/issues"
+    "url": "https://github.com/javaSwing/egg-class-validator/issues"
   },
-  "homepage": "https://github.com/hackycy/egg-class-validator",
+  "homepage": "https://github.com/javaSwing/egg-class-validator",
   "author": "hackycy",
   "license": "MIT"
 }
