@@ -1,6 +1,6 @@
 {
   "name": "@java_swing/egg-class-validator",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "class-validator plugin for Egg.js",
   "eggPlugin": {
     "name": "classValidator"
@@ -12,7 +12,7 @@
     "class-validator"
   ],
   "dependencies": {
-    "class-transformer": "^0.4.0",
+    "class-transformer": "^0.5.1",
     "class-validator": "^0.13.1",
     "reflect-metadata": "^0.1.13"
   },
@@ -39,13 +39,10 @@
     "autod": "autod"
   },
   "files": [
+    "app",
+    "config",
     "app.js",
-    "app/**/*.js",
-    "config/**/*.js",
-    "package.json",
-    "index.d.ts",
-    "README.md",
-    "LICENSE"
+    "index.d.ts"
   ],
   "types": "index.d.ts",
   "ci": {
